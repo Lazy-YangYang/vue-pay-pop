@@ -1,5 +1,5 @@
 {
-  "name": "vue-pay-keyboard",
+  "name": "vue-pay-pop",
   "description": "A Vue.js project",
   "version": "1.0.0",
   "author": "chenjiawei jiaweichen995@outlook.com",
@@ -17,6 +17,7 @@
     "last 2 versions",
     "not ie <= 8"
   ],
+ 
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
@@ -31,5 +32,9 @@
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.9.1"
+  },
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/Lazy-YangYang/vue-pay-pop.git"
   }
 }
